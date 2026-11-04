@@ -20,6 +20,18 @@
 
   <img src="assets/signal-divider.gif" alt="Animated neon signal divider" width="56%" />
 
+  <h2>NOW PLAYING // NIGHT DRIVE MIX</h2>
+
+  <p><sub>A SMALL COLLECTION OF SOUNDS FOR THE HOURS AFTER DARK</sub></p>
+
+  <img src="assets/now-playing.gif" alt="Animated cyberpunk music player cycling through five favorite tracks" width="100%" />
+
+  <p><sub>KAVINSKY　•　MR.KITTY　•　THE WEEKND　•　MODERN TALKING　•　VØJ x NARVENT</sub></p>
+
+  <br />
+
+  <img src="assets/signal-divider.gif" alt="Animated neon signal divider" width="56%" />
+
   <p><sub>AFTER DARK　•　NO SIGNAL　•　KEEP MOVING</sub></p>
 
   <p><sub>TRANSMISSION ENDS // SEE YOU IN THE CITY</sub></p>
