@@ -1,21 +1,27 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="A neon synthwave city beneath a magenta moon" width="100%" />
+
+  <img src="assets/hero.gif" alt="A neon-lit cyberpunk city at night, with a slowly moving scanline" width="100%" />
+
   <br />
-  <br />
-  <h1>S P E C T R B R O S</h1>
-  <p><samp>we got work to do</samp></p>
+
+  <img src="assets/signal-divider.gif" alt="Animated neon signal divider" width="84%" />
+
+  <h1>SPECTRBROS</h1>
+
+  <p><samp>WE GOT WORK TO DO</samp></p>
+
   <p><sub>Ａ　ＱＵＩＥＴ　ＣＯＲＮＥＲ　ＯＦ　ＴＨＥ　ＩＮＴＥＲＮＥＴ</sub></p>
+
   <br />
-  <img src="assets/neon-divider.svg" alt="neon divider" width="72%" />
+
+  <p><i>Somewhere between the neon lights and the silence.</i></p>
+
   <br />
-  <br />
-  <p><i>“Somewhere between the neon lights and the silence.”</i></p>
-  <br />
-  <p><sub>✦　DREAM　/　DRIFT　/　CREATE　✦</sub></p>
-  <br />
-  <img src="assets/neon-divider.svg" alt="neon divider" width="42%" />
-  <br />
-  <br />
+
+  <img src="assets/signal-divider.gif" alt="Animated neon signal divider" width="56%" />
+
   <p><sub>AFTER DARK　•　NO SIGNAL　•　KEEP MOVING</sub></p>
-  <p><sub>END OF TRANSMISSION</sub></p>
+
+  <p><sub>TRANSMISSION ENDS // SEE YOU IN THE CITY</sub></p>
+
 </div>
