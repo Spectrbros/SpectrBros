@@ -6,7 +6,14 @@
 
   <img src="assets/signal-divider.gif" alt="Animated neon signal divider" width="84%" />
 
-  <h1>SPECTRBROS</h1>
+  <h1>SPECTRBROS
+
+  <br />
+
+  <img src="assets/character.gif" alt="Pixel-art cyberpunk character in a glowing visor, with windblown hair and a neon city behind them" width="360" />
+  
+  </h1>
+  
 
   <p><samp>WE GOT WORK TO DO</samp></p>
 
@@ -15,10 +22,6 @@
   <br />
 
   <p><i>Somewhere between the neon lights and the silence.</i></p>
-
-  <br />
-
-  <img src="assets/character.gif" alt="Pixel-art cyberpunk character in a glowing visor, with windblown hair and a neon city behind them" width="360" />
 
   <p><sub>PLAYER 01　//　NEON DISTRICT　//　ONLINE</sub></p>
 
