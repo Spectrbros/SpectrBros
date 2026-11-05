@@ -18,6 +18,10 @@
 
   <br />
 
+  <img src="assets/character.gif" alt="Pixel-art cyberpunk character in a glowing visor, with windblown hair and a neon city behind them" width="360" />
+
+  <p><sub>PLAYER 01　//　NEON DISTRICT　//　ONLINE</sub></p>
+
   <img src="assets/signal-divider.gif" alt="Animated neon signal divider" width="56%" />
 
   <h2>NOW PLAYING // NIGHT DRIVE MIX</h2>
